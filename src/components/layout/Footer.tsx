@@ -8,9 +8,9 @@ export function Footer() {
           © {new Date().getFullYear()} Arpit Verma. Built with React.
         </p>
         <div className="flex space-x-6">
-          <a href="#" className="text-zinc-500 hover:text-white transition-colors text-sm font-medium">LinkedIn</a>
-          <a href="#" className="text-zinc-500 hover:text-white transition-colors text-sm font-medium">GitHub</a>
-          <a href="#" className="text-zinc-500 hover:text-white transition-colors text-sm font-medium">Twitter</a>
+          <a href="https://www.linkedin.com/in/arpit-verma-343885292/" className="text-zinc-500 hover:text-white transition-colors text-sm font-medium">LinkedIn</a>
+          <a href="https://github.com/arpit696911" className="text-zinc-500 hover:text-white transition-colors text-sm font-medium">GitHub</a>
+       
         </div>
       </div>
     </footer>
